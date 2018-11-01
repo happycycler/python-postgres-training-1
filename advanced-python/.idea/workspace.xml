@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/oop/more-lambdas.py" line="68" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1773af5c-288a-4d00-995a-faaeeb3c650a" name="Default Changelist" comment="" />
+    <list default="true" id="1773af5c-288a-4d00-995a-faaeeb3c650a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/built-in-exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/built-in-methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/composition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/create-exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/exceptions-intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/lambda-expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/more-lambdas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/unit-testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section-quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-login/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitter-login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-login/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,54 +31,106 @@
     <session id="-901243212">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="391" />
+          <entry key="py" value="5488" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="391" />
+          <entry key="Python" value="5488" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop/inheritance-intro.py">
+        <entry file="file://$PROJECT_DIR$/oop/create-exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1538593614307" expanded="true" signature="34:39" ph="..." />
+                <marker date="1538593614307" expanded="true" signature="83:88" ph="..." />
+                <marker date="1538593614307" expanded="true" signature="136:141" ph="..." />
+                <marker date="1538593614307" expanded="true" signature="243:248" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/assertions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding>
+                <marker date="1539024545001" expanded="true" signature="85:86" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/lambda-expressions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1539201567198" expanded="true" signature="67:71" ph="..." />
+                <marker date="1539201567198" expanded="true" signature="250:300" ph="..." />
+                <marker date="1539201567198" expanded="true" signature="426:427" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/more-lambdas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <marker date="1539203574517" expanded="true" signature="882:1897" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/unit-testing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <marker date="1539210381701" expanded="true" signature="878:2028" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oop/multiple-inheritance.py">
+        <entry file="file://$PROJECT_DIR$/section-quiz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-              <folding>
-                <marker date="1538505533567" expanded="true" signature="13:58" ph="..." />
-                <marker date="1538505533567" expanded="true" signature="71:169" ph="..." />
-                <marker date="1538505533567" expanded="true" signature="198:210" ph="..." />
-                <marker date="1538505533567" expanded="true" signature="198:230" ph="..." />
-              </folding>
+            <state>
+              <caret column="56" selection-start-column="56" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -73,25 +144,48 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CONSUMER_KEY</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/oop/inheritance-intro.py" />
         <option value="$PROJECT_DIR$/oop/multiple-inheritance.py" />
+        <option value="$PROJECT_DIR$/oop/composition.py" />
+        <option value="$PROJECT_DIR$/oop/encapsulation.py" />
+        <option value="$PROJECT_DIR$/oop/exceptions-intro.py" />
+        <option value="$PROJECT_DIR$/oop/create-exceptions.py" />
+        <option value="$PROJECT_DIR$/oop/built-in-exceptions.py" />
+        <option value="$PROJECT_DIR$/oop/built-in-methods.py" />
+        <option value="$PROJECT_DIR$/oop/assertions.py" />
+        <option value="$PROJECT_DIR$/oop/lambda-expressions.py" />
+        <option value="$PROJECT_DIR$/oop/unit-testing.py" />
+        <option value="$PROJECT_DIR$/oop/more-lambdas.py" />
+        <option value="$PROJECT_DIR$/section-quiz.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="14" />
-    <option name="y" value="3" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="31" />
+    <option name="y" value="34" />
     <option name="width" value="1890" />
-    <option name="height" value="1033" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,12 +198,20 @@
               <item name="advanced-python" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="advanced-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advanced-python" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitter-login" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,8 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.multiple-inheritance">
-    <configuration name="inheritance-intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.section-quiz">
+    <configuration name="lambda-expressions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="advanced-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/inheritance-intro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/lambda-expressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple-inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="more-lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="advanced-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,23 +259,78 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/multiple-inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/more-lambdas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="section-quiz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advanced-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section-quiz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit-testing.CurrencyTest.test_compare_currency_equal_value" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="advanced-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit-testing.CurrencyTest.test_compare_currency_equal_value&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in unit-testing.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="advanced-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/oop/unit-testing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.inheritance-intro" />
-      <item itemvalue="Python.multiple-inheritance" />
+      <item itemvalue="Python.lambda-expressions" />
+      <item itemvalue="Python.more-lambdas" />
+      <item itemvalue="Python tests.Unittests in unit-testing.py" />
+      <item itemvalue="Python tests.Unittests for unit-testing.CurrencyTest.test_compare_currency_equal_value" />
+      <item itemvalue="Python.section-quiz" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multiple-inheritance" />
-        <item itemvalue="Python.inheritance-intro" />
+        <item itemvalue="Python.section-quiz" />
+        <item itemvalue="Python tests.Unittests in unit-testing.py" />
+        <item itemvalue="Python tests.Unittests for unit-testing.CurrencyTest.test_compare_currency_equal_value" />
+        <item itemvalue="Python.more-lambdas" />
+        <item itemvalue="Python.lambda-expressions" />
       </list>
     </recent_temporary>
   </component>
@@ -190,24 +347,55 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 20m 16s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 21m 07s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 22m 04s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 22m 24s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 25m 14s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 26m 21s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit-testing_CurrencyTest_test_compare_currency_equal_value - 2018.10.10 at 18h 29m 35s.xml">
+      <configuration name="Unittests for unit-testing.CurrencyTest.test_compare_currency_equal_value" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit-testing_CurrencyTest_test_compare_currency_equal_value - 2018.10.10 at 18h 30m 17s.xml">
+      <configuration name="Unittests for unit-testing.CurrencyTest.test_compare_currency_equal_value" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 30m 36s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit-testing_py - 2018.10.10 at 18h 30m 41s.xml">
+      <configuration name="Unittests in unit-testing.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="3" width="1890" height="1033" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.243941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22993493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -220,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/oop/inheritance-intro.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -228,12 +416,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/composition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/encapsulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/exceptions-intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/built-in-methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/built-in-exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/create-exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <marker date="1538505533567" expanded="true" signature="13:58" ph="..." />
-            <marker date="1538505533567" expanded="true" signature="71:169" ph="..." />
-            <marker date="1538505533567" expanded="true" signature="198:210" ph="..." />
-            <marker date="1538505533567" expanded="true" signature="198:230" ph="..." />
+            <marker date="1538593614307" expanded="true" signature="34:39" ph="..." />
+            <marker date="1538593614307" expanded="true" signature="83:88" ph="..." />
+            <marker date="1538593614307" expanded="true" signature="136:141" ph="..." />
+            <marker date="1538593614307" expanded="true" signature="243:248" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/assertions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <marker date="1539024545001" expanded="true" signature="85:86" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/lambda-expressions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539201567198" expanded="true" signature="67:71" ph="..." />
+            <marker date="1539201567198" expanded="true" signature="250:300" ph="..." />
+            <marker date="1539201567198" expanded="true" signature="426:427" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/more-lambdas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1539203574517" expanded="true" signature="882:1897" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/unit-testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <marker date="1539210381701" expanded="true" signature="878:2028" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,1 @@
+print(list(map(lambda z: z**2, [x for x in range(10)])))

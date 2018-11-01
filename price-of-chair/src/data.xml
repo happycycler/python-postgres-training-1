@@ -1,0 +1,17 @@
+<students>
+    <data>
+        <name>jose</name>
+        <mark>100</mark>
+        <id>12345</id>
+    </data>
+    <data>
+        <name>mark</name>
+        <mark>85</mark>
+        <id>23456</id>
+    </data>
+    <data>
+        <name>anna</name>
+        <mark>75</mark>
+        <id>34567</id>
+    </data>
+</students>
