@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6405E56C
+eax=00030000 ebx=642A3A48 ecx=00000000 edx=00950000 esi=00000001 edi=642A3A28
+ebp=200739B0 esp=0062C310 program=C:\Program Files\cmder\vendor\git-for-windows\usr\bin\ls.exe, pid 8680, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+200739B0  6405E56C (0000796D, 00000013, 646C7173, 00000062)
