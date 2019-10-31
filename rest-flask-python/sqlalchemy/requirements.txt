@@ -4,3 +4,5 @@ Flask-JWT==0.3.2
 Flask-SQLAlchemy==2.4.1
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
+pymysql==0.9.3
+simplejson==3.16.0
